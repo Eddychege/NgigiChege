@@ -1,13 +1,11 @@
-<h1 align="center">🚀 Beka Kakachia | AI Engineer 💎</h1>
+<h1 align="center">🚀 EDDIE NGIGI CHEGE | ML Engineer 💎</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f6/66/ce/f666ce7b21152768e565ce0b0a3ce1ca.gif" alt="coding" width="400" style="border-radius: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </p>
 
 <p align="center">
-<a href="https://twitter.com/bekakakachia777" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="kakachia777" height="39" width="40" /></a>
 <a href="https://www.linkedin.com/in/beka-kakachia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beka kakachia" height="30" width="40" /></a>
-<a href="https://instagram.com/kakachia777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kakachia777" height="30" width="40" /></a>
 <a href="https://discord.com/users/1061269419487133736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kakachia777" height="30" width="40" /></a>
 </p>
 
@@ -23,8 +21,8 @@
 
 ## 🔬 Current Ventures
 
-- 🌃 Building **SyntrofAI**: Revolutionizing AI Agents Space → https://syntrofai.webflow.io/
-- 🐸 Building **PepeHuang**: Revolutionizing Crypto Space → https://pepehuang.webflow.io/
+- 🌃 Learning SciML
+- 🐸 Building up astronomy knowledge for upcoming research projects 
 
 ## 📡 Let's Connect!
 
@@ -66,21 +64,14 @@
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kakachia777&show_icons=true&theme=radical" alt="GitHub Stats" width="600" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eddychege&show_icons=true&theme=radical" alt="GitHub Stats" width="600" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
 </p>
 
 
-## 🌐 My AI Agent Stack
-
-<p align="center">
-  <img src="Stack.png" alt="AI Agent Stack" width="600" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
-</p>
 
 ---
 
